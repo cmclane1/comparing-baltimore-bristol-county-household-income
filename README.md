@@ -21,5 +21,6 @@ Baltimore needs to examine why the education rates are so low and try and improv
   
 ## Links
 [Analysis](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimor-Bristol-Analysis.xlsx)
+
 [Data](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimore-Bristol-Data.xlsx)
 
