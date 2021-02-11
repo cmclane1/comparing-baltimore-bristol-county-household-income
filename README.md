@@ -25,3 +25,9 @@ Baltimore needs to examine why the education rates are so low and try and improv
 [Data](https://github.com/cmclane1/comparing-baltimore-bristol-county-household-income/blob/main/Baltimore-Bristol-Data.xlsx)
 
 [Opportunity Atlas](https://www.opportunityatlas.org/)
+
+[Baltimore Wikipedia](https://en.wikipedia.org/wiki/Baltimore)
+
+[Bristol County Wikipedia](https://en.wikipedia.org/wiki/Bristol_County,_Rhode_Island)
+
+[Catholic Counties of the US](https://www.thearda.com/ql2010/QL_C_2010_1_26c.asp)
